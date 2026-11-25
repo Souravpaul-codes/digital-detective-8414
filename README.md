@@ -69,3 +69,12 @@ Through these missions I understood the full picture of how a computer works —
 ---
 
 > Each mission was documented and committed separately with a meaningful commit message.
+
+
+## My Learning
+
+Here are some key things I learned through this assignment:
+
+1. **How computers actually work** — I now understand the full IPOS cycle and how hardware and software work together to process information.
+2. **Terminal is powerful** — Before this I only used the graphical interface. Now I can navigate, create files and manage things using just text commands.
+3. **Git keeps everything safe** — Version control means I never lose my work. Every change is saved and I can always go back.
